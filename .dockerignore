@@ -22,6 +22,7 @@ redis
 elasticsearch
 chart
 storybook-static
+volumes
 .yarn/
 !.yarn/patches
 !.yarn/plugins
