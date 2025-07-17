@@ -40,6 +40,7 @@ node_modules/
 /postgres14
 /redis
 /elasticsearch
+/volumes
 
 # Ignore Apple files
 .DS_Store

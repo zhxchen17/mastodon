@@ -20,6 +20,7 @@ postgres14
 redis
 elasticsearch
 chart
+volumes
 .yarn/
 !.yarn/patches
 !.yarn/plugins
